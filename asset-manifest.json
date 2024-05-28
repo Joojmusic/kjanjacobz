@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d3e9c34.css",
+    "main.js": "/static/js/main.1b2186f7.js",
+    "static/js/592.4d5de66d.chunk.js": "/static/js/592.4d5de66d.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
+    "static/media/happy-kids.jpeg": "/static/media/happy-kids.d26b29d21b8341b4da56.jpeg",
+    "static/media/boys-standing.jpeg": "/static/media/boys-standing.35898ef358d2172fb7cf.jpeg",
+    "static/media/girl-crying.jpeg": "/static/media/girl-crying.cbfaee1714052ff07e23.jpeg",
+    "index.html": "/index.html",
+    "main.4d3e9c34.css.map": "/static/css/main.4d3e9c34.css.map",
+    "main.1b2186f7.js.map": "/static/js/main.1b2186f7.js.map",
+    "592.4d5de66d.chunk.js.map": "/static/js/592.4d5de66d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3e9c34.css",
+    "static/js/main.1b2186f7.js"
+  ]
+}
